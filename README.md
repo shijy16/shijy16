@@ -5,8 +5,7 @@
 Things about me:
 - 👶 A CS graduate and noob security postgraduate.
 - 🔭 Insterested in both computer science and cyber security.
-  - Security fields including address sanitizer, fuzz, micro-architect attacks, AI security...
-- ⚡ Currently learning GPU security issues.
+- ⚡ Currently focusing on AI hardware/software stack security issues.
 - 📫 Email: [shijy16@163.com](shijy16@163.com)
 - 🍎 Blog: [blog.shijy16.cn](https://blog.shijy16.cn)
 
