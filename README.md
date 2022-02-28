@@ -4,8 +4,8 @@
 
 Things about me:
 - 👶 A CS graduate and noob security postgraduate.
-- 🔭 Insterested in both computer science and cyber security.
-- ⚡ Currently focusing on AI hardware/software stack security issues.
+- 🔭 Insterested in both computer science and software security.
+- ⚡ Currently focusing on AI hardware/software stack security issues, especially fuzz testing techniques for AI frameworks.
 - 📫 Email: [shijy16@163.com](shijy16@163.com)
 - 🍎 Blog: [blog.shijy16.cn](https://blog.shijy16.cn)
 
