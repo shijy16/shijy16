@@ -1,13 +1,17 @@
 ### Hi there 👋
 
-😄 Happy to see U.
+I am shijy16, a doctoral student and a security researcher.
 
-Things about me:
-- 👶 A CS graduate and noob security postgraduate.
-- 🔭 Insterested in both computer science and software security.
-- ⚡ Currently focusing on AI hardware/software stack security issues, especially fuzz testing techniques for AI frameworks.
-- 📫 Email: [shijy16@gmail.com](shijy16@gmail.com)
-- 🍎 Blog: [blog.shijy16.cn](https://blog.shijy16.cn)
+My current research interests include **AI framework vulnerability discovery** and **software supply chain security**, with a focus on **vulnerability semantics extraction and matching**.
+
+Here's something about me:
+- Google Bug Hunter Leaderboard #181.
+- Intel leaderboard #25
+
+My contacts:
+- Email: [shijy16@gmail.com](shijy16@gmail.com)
+- Blog: [blog.shijy16.cn](https://blog.shijy16.cn)
+- twitter: @shijy16_
 
 My Status:
 
