@@ -2,16 +2,16 @@
 
 I am shijy16, a doctoral student and a security researcher.
 
-My current research interests include **AI framework vulnerability discovery** and **software supply chain security**, with a focus on **vulnerability semantics extraction and matching**.
+My research interests include **AI framework vulnerability discovery** and **software supply chain security**, with a current focus on **vulnerability semantics extraction and matching**.
 
-Here's something about me:
-- Google Bug Hunter Leaderboard #181.
+Things about about me:
+- Google Bug Hunter Leaderboard #181
 - Intel leaderboard #25
 
-My contacts:
+Contact:
 - Email: [shijy16@gmail.com](shijy16@gmail.com)
 - Blog: [blog.shijy16.cn](https://blog.shijy16.cn)
-- twitter: @shijy16_
+- Twitter: @shijy16_
 
 My Status:
 
