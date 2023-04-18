@@ -4,7 +4,7 @@ My research interests include **AI system security** and **software supply chain
 
 Things about about me:
 - Google Bug Hunter Leaderboard #181
-- Intel leaderboard #25
+- Intel Leaderboard #25
 
 Contact:
 - Email: [shijy16@gmail.com](shijy16@gmail.com)
