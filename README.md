@@ -2,7 +2,7 @@ I am shijy16, a doctoral student and a security researcher.
 
 My research interests include **AI system security** and **software supply chain security**, with a current focus on **semantics based vulnerability discovery**.
 
-Things about about me:
+Things about me:
 - Google Bug Hunter Leaderboard #181
 - Intel Leaderboard #25
 
