@@ -8,7 +8,6 @@ Things about me:
 
 Contact:
 - Email: [shijy16@gmail.com](shijy16@gmail.com)
-- Blog: [blog.shijy16.cn](https://blog.shijy16.cn)
 - Twitter: @shijy16_
 
 My Status:
